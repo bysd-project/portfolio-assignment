@@ -96,3 +96,7 @@ Ask questions, this isnt a "Here's your assignment, go", it's a learning opportu
 Without giving away too much, mkdocs config files are strange if you've never used it before:
 
 [mkdocs example](https://gist.github.com/userbradley/9aabac20e47c420e07b9bc0621378310)
+
+## Example site:
+
+[bradley.breadnet.co.uk](https://bradley.breadnet.co.uk)
