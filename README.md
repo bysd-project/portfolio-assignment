@@ -87,7 +87,7 @@ resource "google_compute_url_map" "default" {
 I wanted to learn how to build a full Load balancer with NEG so used my own code over the module.
 ```
 
-## Closig notes:
+## Closing notes:
 
 Ask questions, this isnt a "Here's your assignment, go", it's a learning opportunity.
 
