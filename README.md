@@ -1,5 +1,11 @@
 # Personal Portfolio Assignment
 
+# Updated Page
+
+I have put together a better version of this [on my GitHub](https://github.com/userbradley/portfolio-project) that you are free to follow!
+
+---
+
 ## Aims of this
 
 This assignment is set out to act as a little project that you need to manage and keep on track. Think of this as you first cloud deployment from a client.
